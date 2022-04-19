@@ -1,0 +1,13 @@
+# Subjects
+* CPU architecture
+  * Various caches
+  * Cache eviction
+  * Consistency across caches
+  * NUMA
+  * CPU intrinsics
+  
+* HTTP stack
+* Virtualization
+  * VM
+  * Micro-VM
+  * Hypervisor
